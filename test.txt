@@ -1,0 +1,6 @@
+mytest
+git clone
+git add
+git status
+git push
+git commit
